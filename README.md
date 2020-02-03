@@ -9,16 +9,16 @@ Ames Housing Dataset contained what a typical home buyer would want to know befo
 The relevant variables are plotted using box plot,scatter plot and bar chart to find connection between them. Some statistical test such as correlation and multicollinearity also have been done. We found out that variable such as age of the house and size of the house play a major part in driving up the sales price.
 
 # Treatment of Outliers
-![alt text](https://github.com/faizalazman/Ames-Housing-Dataset/blob/master/Outliers.png)
+![alt text](https://github.com/ParmenidesSartre/Ames-Housing/blob/master/Pictures/Outliers.png)
 
 # Distribution of Sales Price
-![alt text](https://github.com/faizalazman/Ames-Housing-Dataset/blob/master/Sale%20Price%20B.png)
+![alt text](https://github.com/ParmenidesSartre/Ames-Housing/blob/master/Pictures/Sale%20Price%20B.png)
 
 # What affects House Price?
-![alt text](https://github.com/faizalazman/Ames-Housing-Dataset/blob/master/Sale%20conds.png)
+![alt text](https://github.com/ParmenidesSartre/Ames-Housing/blob/master/Pictures/Sale%20conds.png)
 
 # Machine Learning Performance
-![alt text](https://github.com/faizalazman/Ames-Housing-Dataset/blob/master/ML%20Curves.png)
+![alt text](https://github.com/ParmenidesSartre/Ames-Housing/blob/master/Pictures/ML%20Curves.png)
 
 # Conclusions 
 What are the variables that have the most inﬂuences on the sales price ? 
