@@ -1,4 +1,6 @@
 # Ames Housing Dataset
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/ParmenidesSartre/Ames-Housing/master?urlpath=https%3A%2F%2Fgithub.com%2FParmenidesSartre%2FAmes-Housing%2Fblob%2Fmaster%2FNotebook.ipynb
 
 # Abstract
 Ames Housing Dataset contained what a typical home buyer would want to know before making a purchase. In this analysis i will try answer question such as: 
